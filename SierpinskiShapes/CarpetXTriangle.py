@@ -10,7 +10,7 @@ pygame.init()
 clock = pygame.time.Clock()
 
 # Changeable values
-ANIMATE = False
+ANIMATE = True
 depthOfSierpinskiCarpet = 3
 depthOfSierpinskiTriangle = 5
 animationSpeed = depthOfSierpinskiTriangle * 3.3
